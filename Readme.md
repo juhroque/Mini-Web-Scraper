@@ -1,1 +1,1 @@
-Projeto de web scraping que devolve as vagas mais recentes de Dev Python Junior no LinkedIn.
+Projeto de web scraping que devolve as últimas vagas de Dev Python Junior publicadas no LinkedIn.
